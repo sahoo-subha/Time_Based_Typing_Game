@@ -2,11 +2,17 @@
 
 ### Table of contents
 
+- Introduction
 - Overview
 - Requirements
 - Contributing
 - Current Maintainer
 - License
+
+
+### Introduction
+
+In this project I build one time based typing game where anyone can play this game to know how fast they are in typing.
 
 
 ### Overview
