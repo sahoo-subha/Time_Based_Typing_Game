@@ -11,16 +11,13 @@
 
 ### Overview
 
-<img src="https://github.com/sahoo-subha/Speech_Text_Reader/blob/main/README_Image/Main%20screen%20img_1.png" alt="Main Screeen Photo_1" style="display: inline-block; margin: 0 auto; max-width: 300px">
-<br/>
-<img src="https://github.com/sahoo-subha/Speech_Text_Reader/blob/main/README_Image/Main%20screen%20img_2.png" alt="Main Screeen Photo_1" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="https://github.com/sahoo-subha/Time_Based_Typing_Game/blob/main/README_Image/Main%20screen.png" alt="Main Screeen Photo_1" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 ### Requirements
 - `HTML`
 - `CSS`
 - `Javascript`
-
 
 
 ### Contributing
