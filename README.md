@@ -16,8 +16,9 @@ In this project I build one time based typing game where anyone can play this ga
 
 
 ### Overview
+![Main screen](https://user-images.githubusercontent.com/89283572/221101862-c03ddcdc-44a7-4bfd-a669-17683294a754.png)
 
-<img src="https://github.com/sahoo-subha/Time_Based_Typing_Game/blob/main/README_Image/Main%20screen.png" alt="Main Screeen Photo" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
 
 ### Requirements
